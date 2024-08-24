@@ -1,6 +1,8 @@
 
 # GSoC 2024 Final Report
 
+![Header Image](./assets/header.png)
+
 ## Project: Enhancements to Exclusions Tab,Code Refactor and Cleanup,MySQL/MariaDB database directory format support
 
 
@@ -62,6 +64,37 @@ I added support for the `directory` value in the format configuration option, mo
 ### What's Left to Do
 - **Vorta**: Fix tests of PR #2049 and get it merged.
 - **Borgmatic**: Finalize the remaining changes based on mentor feedback and get the PR merged.
+
+
+## Pull Requests
+A list of all the pull requests I made before and during GSoC, in chronological order of their creation.
+
+### [Vorta](https://github.com/borgbase/vorta)
+![Vorta Contributor Stats](./assets/vorta-contributions.png)
+- [Fix:about dialogue grammar and yr ](https://github.com/borgbase/vorta/pull/1936)
+- [Fix:loglink moved below logs table ](https://github.com/borgbase/vorta/pull/1939)
+- [run borg compact after each prune](https://github.com/borgbase/vorta/pull/1959)
+- [Reopen addrepowindow prefilled when adding repo fails ](https://github.com/borgbase/vorta/pull/1966)
+- [VSC and android exclusion patterns](https://github.com/borgbase/vorta/pull/1967)
+- [Improved Exception Dialog with Copy Paste ](https://github.com/borgbase/vorta/pull/1977)
+- [Compaction Scheduling](https://github.com/borgbase/vorta/pull/1981)
+- [hide password field if encryption is none ](https://github.com/borgbase/vorta/pull/2011)
+- [Exclude If Present ](https://github.com/borgbase/vorta/pull/2016)
+- [Remove duplicate sources on profile import ](https://github.com/borgbase/vorta/pull/2017)
+- [Add misc exclusion patterns ](https://github.com/borgbase/vorta/pull/2021)
+- [Update Log path in Issue Template](https://github.com/borgbase/vorta/pull/2032)
+- [Sources table UI updated to match Archives table  ](https://github.com/borgbase/vorta/pull/2034)
+- [Schedule tab refactoring](https://github.com/borgbase/vorta/pull/2035)
+- [.ui files changed to snake_case](https://github.com/borgbase/vorta/pull/2042)
+- [Refactor get_mount_points](https://github.com/borgbase/vorta/pull/2044)
+- [Split archive tab](https://github.com/borgbase/vorta/pull/2049)
+- [palette_changed connection moved to schedule_tab](https://github.com/borgbase/vorta/pull/2050)
+
+### [Borgmatic](https://github.com/borgbase/vorta)
+![Vorta Contributor Stats](./assets/borgmatic-contributions.png)
+- [Custom dump command for mysql ](https://github.com/borgbase/vorta/pull/81)
+- [support for NO_COLOR env var ](https://github.com/borgbase/vorta/pull/82)
+- [WIP:MySQL Directory Format](https://github.com/borgbase/vorta/pull/84)
 
 
 ### Acknowledgements
