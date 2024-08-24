@@ -3,6 +3,20 @@
 
 ## Project: Enhancements to Exclusions Tab,Code Refactor and Cleanup,MySQL/MariaDB database directory format support
 
+
+Contributor: [Shivansh Singh](https://github.com/shivansh02)
+
+Sub-Organization: Borg Collective
+
+Proposal Link: [Borg Collective Proposal](https://summerofcode.withgoogle.com/media/user/514ad0065129/proposal/gAAAAABmyeVH_rdFptUPYVyj3MechTzavE9UDxX2ebKN0jbHrPJoB5DcCNLRxzq_PD_bW-Or8qhcc3TbXOJalRouRrq-D2y3eFTfjCz60fo_TkDckDSBmE0=.pdf)
+
+Organization: [Python Software Foundation](https://python-gsoc.org/)
+
+Project Link: [Enhancements to Exclusions Tab,Code Refactor and Cleanup,MySQL/MariaDB database directory format support](https://summerofcode.withgoogle.com/programs/2024/projects/YjsXGlhT)
+
+Mentors: [Manuel Riel (m3nu)](https://github.com/m3nu), [Dan Helfman (witten)](https://github.com/witten)
+
+
 ### Project Goals
 
 [Borg](https://github.com/borgbackup/borg)  is a powerful file backup tool that performs tasks like compression, encryption, authentication, and data deduplication. It is a command-line tool, and is used by many users and organizations to back up their data.
